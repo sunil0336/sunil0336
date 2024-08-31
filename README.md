@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning `MERN Stack`
 
+![Visitor Count](https://komarev.com/ghpvc/?username=sunil0336&base=1000)
+
 ## 🛠️ Technologies & Tools I use:
 
 <p>
