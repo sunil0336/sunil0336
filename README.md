@@ -16,10 +16,7 @@
 
 ## 🛠️ Technologies & Tools I use:
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
- 
+<p> 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -45,6 +42,12 @@
     <a href="https://www.instagram.com/sunil0336" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
     </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil0336&show_icons=true&locale=en&layout=compact" alt="sunil0336" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunil0336&show_icons=true&locale=en" alt="sunil0336" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil0336&" alt="sunil0336" /></p>
 
 
 <!--
