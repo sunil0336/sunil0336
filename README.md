@@ -1,9 +1,10 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sunil Rathod</h1>
 
  <br/>
-<img  src="undraw_programming_re_kg9v.svg" height="250px" align="right" />
 
 ## 👨🏻‍💻 About Me:
+
+<img  src="undraw_programming_re_kg9v.svg" height="250px" align="right" />
 
 
 - Pursuing Masters in Computer Science at `Fergusson College Pune`
