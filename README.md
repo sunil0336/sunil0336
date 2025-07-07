@@ -4,7 +4,6 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="undraw_programming_re_kg9v.svg" height="250px" align="right" />
 
 
 - Pursuing Masters in Computer Science at `Fergusson College Pune`
